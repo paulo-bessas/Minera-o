@@ -1,1 +1,1 @@
-# Mineraçao
+# Mineracao
